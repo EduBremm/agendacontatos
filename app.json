@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Agenda de Contatos",
+    "slug": "appagendacontatos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F2F2F7"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.dev.appagendacontatos"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4F6EF7"
+      },
+      "package": "com.dev.appagendacontatos"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
